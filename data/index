@@ -1,1 +1,4 @@
-
+Filename                     File Description
+--------------------------------------------------------------------------------
+ab_data.csv                  The main dataset which contains the A/B test results run by an e-commerce website
+countries.csv                CSV file which contains country information of all user_id in the A/B test data
